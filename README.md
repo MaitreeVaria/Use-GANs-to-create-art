@@ -3,7 +3,7 @@
 
 This Jupyter Notebook explores the fascinating world of Generative Adversarial Networks (GANs) and their application in creating art. GANs are a class of machine learning models that can generate data, often used in image synthesis and creative applications.
 
-**Note:** This notebook is a part of a Cousera course - [Introduction to Deep Learning : Week 5] (https://www.coursera.org/learn/introduction-to-deep-learning-boulder)
+**Note:** This notebook is a part of a Cousera course - [Introduction to Deep Learning : Week 5](https://www.coursera.org/learn/introduction-to-deep-learning-boulder)
 
 In this notebook, we will:
 
